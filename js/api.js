@@ -14,7 +14,7 @@
  **/
 
 /**
- * On object instantiation the getInfo method will be called to initialize
+ * On object instantiation the getInfo method should be called to initialize
  * member variables.
  */
 function API(key,secret,startNonce){
